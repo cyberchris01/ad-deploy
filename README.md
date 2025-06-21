@@ -1,4 +1,5 @@
-![adl](https://github.com/user-attachments/assets/8cc50950-61e4-49a4-be39-8e3d562ce2ab)
+![azureinfraaas](https://github.com/user-attachments/assets/5a2c3727-2e03-4e8e-960b-5039333d7ef7)
+
 
 <h1>Deploying Active Directory</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
