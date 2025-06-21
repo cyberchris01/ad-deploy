@@ -1,4 +1,4 @@
-![azureinfraaas](https://github.com/user-attachments/assets/5a2c3727-2e03-4e8e-960b-5039333d7ef7)
+
 
 
 <h1>Deploying Active Directory</h1>
